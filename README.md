@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 #
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayalinep)](https://github.com/anuraghazra/github-readme-stats)
 - 👩‍⚕️ With a background in nursing, I am particularly interested in developing software solutions for the healthcare and education sectors.
 
 🔧 Here are some projects I've worked on:
